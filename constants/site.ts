@@ -1,12 +1,10 @@
 export const SITE = {
   name: "A.A.C.E Organisation",
 
-  fullName: "Action. Awareness. Community. Empowerment.",
-
   tagline: "Your Voice. Your Future. Our Mission.",
 
-  description:
-    "A youth-driven NGO dedicated to empowering communities through education, awareness, health initiatives, environmental action, and social impact.",
+  mission:
+    "Empowering communities through awareness, education, healthcare, youth leadership, and sustainable social initiatives.",
 
   founder: "Prekshitha Reddy",
 
@@ -16,11 +14,6 @@ export const SITE = {
 
   address: "",
 
-  instagram: "",
-
-  linkedin: "",
-
-  youtube: "",
-
-  facebook: "",
+  copyright:
+    `© ${new Date().getFullYear()} A.A.C.E Organisation. All rights reserved.`,
 };
